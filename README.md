@@ -1,5 +1,5 @@
 # Nanavel
-Nanavel is Rest APi framework built for fun to mimic the Laravel framework the Sakila database is used for the sake of example.
+Nanavel is a Rest APi framework built for fun to mimic the Laravel framework the Sakila database is used for the sake of example.
 
 # Patterns and Concepts
   - Other than the regular OOP concepts and MVC, the factory pattern is used in ControllerFactory.
